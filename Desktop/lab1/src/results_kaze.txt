@@ -1,0 +1,370 @@
+Results:
+good Image 0
+keypoints: 21, descriptors: (21, 64)
+Time: 0.407904148102
+good Image 1
+keypoints: 764, descriptors: (764, 64)
+Time: 0.368616104126
+good Image 2
+keypoints: 899, descriptors: (899, 64)
+Time: 0.365386962891
+good Image 3
+keypoints: 3516, descriptors: (3516, 64)
+Time: 0.940478801727
+good Image 4
+keypoints: 90, descriptors: (90, 64)
+Time: 0.208478927612
+good Image 5
+keypoints: 358, descriptors: (358, 64)
+Time: 0.289675951004
+good Image 6
+keypoints: 6974, descriptors: (6974, 64)
+Time: 1.70185303688
+good Image 7
+keypoints: 4761, descriptors: (4761, 64)
+Time: 1.25236082077
+good Image 8
+keypoints: 6855, descriptors: (6855, 64)
+Time: 1.74482798576
+good Image 9
+keypoints: 7455, descriptors: (7455, 64)
+Time: 1.92804193497
+good Image 10
+keypoints: 8085, descriptors: (8085, 64)
+Time: 1.88493394852
+good Image 11
+keypoints: 2608, descriptors: (2608, 64)
+Time: 0.780735969543
+good Image 12
+keypoints: 2925, descriptors: (2925, 64)
+Time: 1.10377597809
+good Image 13
+keypoints: 44, descriptors: (44, 64)
+Time: 0.197105884552
+good Image 14
+keypoints: 42, descriptors: (42, 64)
+Time: 0.178107023239
+good Image 15
+keypoints: 32, descriptors: (32, 64)
+Time: 0.155071020126
+good Image 16
+keypoints: 5064, descriptors: (5064, 64)
+Time: 1.20058989525
+good Image 17
+keypoints: 40, descriptors: (40, 64)
+Time: 0.165840864182
+good Image 18
+keypoints: 5526, descriptors: (5526, 64)
+Time: 1.49683403969
+good Image 19
+keypoints: 948, descriptors: (948, 64)
+Time: 0.394932031631
+good Image 20
+keypoints: 3803, descriptors: (3803, 64)
+Time: 0.996481895447
+good Image 21
+keypoints: 6286, descriptors: (6286, 64)
+Time: 1.85200190544
+good Image 22
+keypoints: 843, descriptors: (843, 64)
+Time: 0.345160007477
+good Image 23
+keypoints: 3414, descriptors: (3414, 64)
+Time: 0.946885108948
+good Image 24
+keypoints: 12757, descriptors: (12757, 64)
+Time: 2.95939087868
+good Image 25
+keypoints: 13275, descriptors: (13275, 64)
+Time: 3.0055770874
+good Image 26
+keypoints: 3828, descriptors: (3828, 64)
+Time: 0.962403059006
+good Image 27
+keypoints: 4228, descriptors: (4228, 64)
+Time: 1.15973782539
+good Image 100
+keypoints: 8085, descriptors: (8085, 64)
+Time: 1.94503211975
+good Image 101
+keypoints: 6286, descriptors: (6286, 64)
+Time: 1.85283303261
+good Image 102
+keypoints: 1874, descriptors: (1874, 64)
+Time: 0.569463014603
+good Image 103
+keypoints: 8877, descriptors: (8877, 64)
+Time: 2.0701777935
+good Image 104
+keypoints: 256, descriptors: (256, 64)
+Time: 0.243623018265
+good Image 105
+keypoints: 4120, descriptors: (4120, 64)
+Time: 1.09657001495
+good Image 106
+keypoints: 1199, descriptors: (1199, 64)
+Time: 0.455465078354
+good Image 107
+keypoints: 6974, descriptors: (6974, 64)
+Time: 2.00063514709
+good Image 108
+keypoints: 5526, descriptors: (5526, 64)
+Time: 1.39690613747
+good Image 109
+keypoints: 2608, descriptors: (2608, 64)
+Time: 0.746739864349
+good Image 110
+keypoints: 2821, descriptors: (2821, 64)
+Time: 0.792040109634
+good Image 111
+keypoints: 657, descriptors: (657, 64)
+Time: 0.309256076813
+good Image 112
+keypoints: 14136, descriptors: (14136, 64)
+Time: 3.66805195808
+good Image 113
+keypoints: 18, descriptors: (18, 64)
+Time: 0.170683145523
+good Image 114
+keypoints: 3828, descriptors: (3828, 64)
+Time: 0.899062871933
+good Image 115
+keypoints: 4761, descriptors: (4761, 64)
+Time: 1.13774204254
+good Image 116
+keypoints: 359, descriptors: (359, 64)
+Time: 0.248317956924
+good Image 117
+keypoints: 3893, descriptors: (3893, 64)
+Time: 1.00964593887
+good Image 118
+keypoints: 9417, descriptors: (9417, 64)
+Time: 2.16775107384
+good Image 119
+keypoints: 12757, descriptors: (12757, 64)
+Time: 2.90327906609
+good Image 120
+keypoints: 764, descriptors: (764, 64)
+Time: 0.336240053177
+good Image 121
+keypoints: 1961, descriptors: (1961, 64)
+Time: 0.572658061981
+good Image 122
+keypoints: 3794, descriptors: (3794, 64)
+Time: 1.08853316307
+good Image 200
+keypoints: 31, descriptors: (31, 64)
+Time: 0.271654844284
+good Image 201
+keypoints: 948, descriptors: (948, 64)
+Time: 0.416319847107
+good Image 202
+keypoints: 5837, descriptors: (5837, 64)
+Time: 1.50323987007
+good Image 203
+keypoints: 2027, descriptors: (2027, 64)
+Time: 0.626636981964
+good Image 204
+keypoints: 630, descriptors: (630, 64)
+Time: 0.29367685318
+good Image 205
+keypoints: 4375, descriptors: (4375, 64)
+Time: 1.18259692192
+good Image 206
+keypoints: 899, descriptors: (899, 64)
+Time: 0.375107049942
+good Image 207
+keypoints: 783, descriptors: (783, 64)
+Time: 0.34308385849
+good Image 208
+keypoints: 4901, descriptors: (4901, 64)
+Time: 1.3837890625
+good Image 209
+keypoints: 5064, descriptors: (5064, 64)
+Time: 1.33069109917
+good Image 210
+keypoints: 42, descriptors: (42, 64)
+Time: 0.190758943558
+good Image 211
+keypoints: 3803, descriptors: (3803, 64)
+Time: 1.00816607475
+good Image 212
+keypoints: 3516, descriptors: (3516, 64)
+Time: 0.967301130295
+good Image 213
+keypoints: 2434, descriptors: (2434, 64)
+Time: 0.71964097023
+good Image 214
+keypoints: 4261, descriptors: (4261, 64)
+Time: 1.11047101021
+good Image 215
+keypoints: 2440, descriptors: (2440, 64)
+Time: 0.739093065262
+good Image 216
+keypoints: 1186, descriptors: (1186, 64)
+Time: 0.436528921127
+good Image 217
+keypoints: 406, descriptors: (406, 64)
+Time: 0.253448009491
+good Image 218
+keypoints: 3354, descriptors: (3354, 64)
+Time: 0.926044940948
+good Image 219
+keypoints: 1, descriptors: (1, 64)
+Time: 0.178733110428
+good Image 220
+keypoints: 11099, descriptors: (11099, 64)
+Time: 2.56830906868
+good Image 221
+keypoints: 4734, descriptors: (4734, 64)
+Time: 1.2549700737
+good Image 222
+keypoints: 1499, descriptors: (1499, 64)
+Time: 0.512866020203
+good Image 223
+keypoints: 6855, descriptors: (6855, 64)
+Time: 1.73483896255
+good Image 224
+keypoints: 13275, descriptors: (13275, 64)
+Time: 3.05619215965
+good Image 225
+keypoints: 2601, descriptors: (2601, 64)
+Time: 0.751452922821
+good Image 226
+keypoints: 1345, descriptors: (1345, 64)
+Time: 0.490755081177
+good Image 227
+keypoints: 561, descriptors: (561, 64)
+Time: 0.288112878799
+good Image 228
+keypoints: 1663, descriptors: (1663, 64)
+Time: 0.554030895233
+good Image 229
+keypoints: 4683, descriptors: (4683, 64)
+Time: 1.33437585831
+good Image 300
+keypoints: 948, descriptors: (948, 64)
+Time: 0.440952062607
+good Image 301
+keypoints: 21, descriptors: (21, 64)
+Time: 0.166044950485
+good Image 302
+keypoints: 7455, descriptors: (7455, 64)
+Time: 1.92771196365
+good Image 303
+keypoints: 4175, descriptors: (4175, 64)
+Time: 1.05546689034
+good Image 304
+keypoints: 216, descriptors: (216, 64)
+Time: 0.231390953064
+good Image 305
+keypoints: 32, descriptors: (32, 64)
+Time: 0.162717103958
+good Image 306
+keypoints: 12041, descriptors: (12041, 64)
+Time: 2.74170708656
+good Image 307
+keypoints: 3414, descriptors: (3414, 64)
+Time: 1.06933403015
+good Image 308
+keypoints: 1213, descriptors: (1213, 64)
+Time: 0.44043302536
+good Image 309
+keypoints: 4228, descriptors: (4228, 64)
+Time: 1.13997793198
+good Image 310
+keypoints: 161, descriptors: (161, 64)
+Time: 0.191233873367
+good Image 311
+keypoints: 980, descriptors: (980, 64)
+Time: 0.404896974564
+good Image 312
+keypoints: 10177, descriptors: (10177, 64)
+Time: 2.29625892639
+good Image 313
+keypoints: 40, descriptors: (40, 64)
+Time: 0.163322925568
+good Image 314
+keypoints: 113, descriptors: (113, 64)
+Time: 0.204293966293
+good Image 315
+keypoints: 170, descriptors: (170, 64)
+Time: 0.195523023605
+good Image 316
+keypoints: 1294, descriptors: (1294, 64)
+Time: 0.458825111389
+good Image 317
+keypoints: 44, descriptors: (44, 64)
+Time: 0.1674451828
+good Image 318
+keypoints: 98, descriptors: (98, 64)
+Time: 0.204941987991
+good Image 319
+keypoints: 7526, descriptors: (7526, 64)
+Time: 1.75683403015
+good Image 320
+keypoints: 7927, descriptors: (7927, 64)
+Time: 1.84236598015
+good Image 321
+keypoints: 170, descriptors: (170, 64)
+Time: 0.194909095764
+bad Image 0
+keypoints: 1160, descriptors: (1160, 64)
+Time: 0.451266050339
+bad Image 1
+keypoints: 1540, descriptors: (1540, 64)
+Time: 0.544609069824
+bad Image 2
+keypoints: 4365, descriptors: (4365, 64)
+Time: 1.17012310028
+bad Image 3
+keypoints: 3239, descriptors: (3239, 64)
+Time: 0.929088115692
+bad Image 4
+keypoints: 1325, descriptors: (1325, 64)
+Time: 0.459248065948
+bad Image 5
+keypoints: 2018, descriptors: (2018, 64)
+Time: 0.646452188492
+bad Image 6
+keypoints: 806, descriptors: (806, 64)
+Time: 0.354737997055
+bad Image 7
+keypoints: 1075, descriptors: (1075, 64)
+Time: 0.439749956131
+bad Image 8
+keypoints: 604, descriptors: (604, 64)
+Time: 0.459527015686
+bad Image 9
+keypoints: 1437, descriptors: (1437, 64)
+Time: 0.463144779205
+bad Image 10
+keypoints: 1201, descriptors: (1201, 64)
+Time: 0.42048406601
+bad Image 11
+keypoints: 1179, descriptors: (1179, 64)
+Time: 0.438710927963
+bad Image 12
+keypoints: 3306, descriptors: (3306, 64)
+Time: 0.91083407402
+bad Image 13
+keypoints: 2711, descriptors: (2711, 64)
+Time: 0.766617059708
+bad Image 14
+keypoints: 753, descriptors: (753, 64)
+Time: 0.352377176285
+bad Image 15
+keypoints: 1114, descriptors: (1114, 64)
+Time: 0.461881160736
+bad Image 16
+keypoints: 354, descriptors: (354, 64)
+Time: 0.261558055878
+bad Image 17
+keypoints: 1295, descriptors: (1295, 64)
+Time: 0.464509010315
+bad Image 18
+keypoints: 212, descriptors: (212, 64)
+Time: 0.229845046997
+bad Image 19
+keypoints: 4346, descriptors: (4346, 64)
+Time: 1.13393688202
